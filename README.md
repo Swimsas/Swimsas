@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swimsas
+- 👋 Hi, I’m Ivan
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning in SoftUni
 - 💞️ I’m looking to collaborate on ...
